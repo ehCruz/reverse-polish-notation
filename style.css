@@ -18,6 +18,7 @@ button {
     vertical-align: bottom;
     border-radius: 4px;
     font-size: 1.1rem;
+    cursor: pointer;
 }
 button:disabled {
     opacity: .7;
